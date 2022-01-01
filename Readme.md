@@ -12,7 +12,7 @@ You have here front end with flutter and  backend with node and mongo, but if yo
 
 
 ### FORMATO JSON DE RACE
-```
+```json
 {
         "routePoints": [
             [38.089657, -3.643466],
@@ -45,7 +45,7 @@ You have here front end with flutter and  backend with node and mongo, but if yo
  ### FORMATO JSON DE CIRCUIT
 
  
- ```
+ ```json
  {
         "routePoints": [
             [
@@ -64,6 +64,4 @@ You have here front end with flutter and  backend with node and mongo, but if yo
         "emailUser": "sam@gmai.com",
         "__v": 0
     }
-    ```
- 
-
+ ```
